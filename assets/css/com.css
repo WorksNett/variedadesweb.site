@@ -234,21 +234,6 @@ footer {
     margin-top: auto;
 }
 
-html {
-    height: 100%;
-    min-height: 100%;
-}
-
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100%;
-}
-
-footer {
-    margin-top: auto;
-}
-
 .bbtn {
   width: 100%;
   max-width: 449px;
